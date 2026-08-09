@@ -1,185 +1,250 @@
-# Hi, I'm Jafar Khan 👋
+Hi, I'm Jafar Khan 👋
 
-### Director of Technology | AI & ERP | Solution Architecture | Product Engineering
+Director of Technology | AI & ERP | Solution Architecture | Product Engineering
 
-Technology leader with **15+ years of experience** building enterprise software, ERP platforms, AI-powered solutions and digital products across **India, Oman and the USA**.
+Technology leader with 15+ years of experience across software engineering, enterprise applications, ERP, AI-powered solutions, product engineering, cloud and digital transformation.
 
-Currently working as a **Director at Thapovan Info Systems**, where I lead technology initiatives, engineering teams, enterprise solution delivery and client engagements.
+Currently serving as a Director of Technology, leading engineering teams, technology initiatives, enterprise solution delivery and client engagements across multiple geographies.
 
-I enjoy working at the intersection of **business problems, technology and product development** — from understanding a client's workflow to designing the architecture, building the solution, leading the team and taking it into production.
-
----
-
-## 🚀 What I Do
-
-* 🏗️ **Technology & Solution Architecture**
-* 🤖 **AI-powered Enterprise Solutions**
-* 🏢 **ERP & Digital Transformation**
-* 📱 **Web & Mobile Product Engineering**
-* ☁️ **Cloud & DevOps**
-* 👥 **Engineering & Technical Leadership**
-* 🤝 **Client Consulting & Solution Design**
-* 📋 **Requirements, Pre-sales & Proposal Development**
+I enjoy working at the intersection of business and technology — understanding complex business problems, designing practical solutions, leading teams and taking products from concept to production.
 
 ---
 
-## 💼 Leadership & Experience
+🚀 What I Do
 
-* 👥 Lead **20–25 technology professionals** across multiple project teams
-* 🌍 Work with **20+ clients** across India, Oman and the USA
-* 🚀 Contributed to **20+ project wins/proposals**
-* 🏢 Delivered **10+ Odoo ERP implementations**
-* 👤 Odoo implementations ranging from approximately **5–100 users**
-* 🧑‍💻 Conduct technical hiring and interview drives
-* 📈 Lead employee performance evaluation and technical mentoring
-* 🎓 Train interns and new engineers on technology and Odoo
-* 🔐 Drive internal technology, security and digitization initiatives
-
----
-
-## 🤖 AI & Intelligent Automation
-
-I focus on applying AI to real business workflows rather than building AI demos in isolation.
-
-### HAPPi
-
-Integrated AI capabilities into an enterprise HRMS, payroll and accounting platform:
-
-* **AI Recruitment** — resume screening and candidate rating against job descriptions
-* **AI Bill Processing** — document scanning, extraction and accounting workflow automation
-* **Automated Bank Reconciliation** — intelligent transaction matching and reconciliation
-
-### Reimbursify
-
-AI-enabled healthcare/insurance workflows:
-
-* **Smart Insurance Card Capture**
-* Insurance company and card information extraction
-* **AI-assisted Superbills Processing**
-* Intelligent claim submission workflows
+- 🧠 AI & Intelligent Automation
+- 🏢 ERP & Digital Transformation
+- 🏗️ Solution & Software Architecture
+- 👨‍💻 Product & Enterprise Engineering
+- 👥 Engineering Leadership
+- ☁️ Cloud & DevOps
+- 🤝 Technical Consulting & Client Engagement
+- 📋 Requirements & Solution Design
+- 💼 Pre-sales & Proposal Development
 
 ---
 
-## 🏢 ERP & Odoo
+📊 Experience at a Glance
 
-I introduced Odoo as a technology capability within my organization and have since designed and delivered multiple implementations.
-
-### HAPPi — HRMS, Payroll & Accounting
-
-Designed and developed an integrated enterprise platform using **Odoo Community Edition**.
-
-* HRMS
-* Payroll
-* Accounting
-* GST integration
-* AI-powered recruitment
-* AI bill processing
-* Bank reconciliation
-* Native iOS application
-* Native Android application
-* Approximately **80 internal users**
-* Replaced Keka and Tally for core HR/accounting workflows
-
-### Enterprise ERP Implementations
-
-Experience across:
-
-* ⛏️ Drilling, Blasting & Mining
-* 🏭 Manufacturing
-* 🏗️ Construction
-* 🛢️ Gas Manufacturing & Distribution
-* 💰 Financial Accounting
-* 🏦 Loan Management
-* 👥 HR & Payroll
-* 📦 Inventory & Logistics
-* 💼 Sales Incentive Management
+| 
+15+| Years in Technology
+20–25| Engineers & Technology Professionals Led
+20+| Clients Engaged
+20+| Projects / Proposals
+10+| ERP Implementations
+India • Oman • USA| International Experience
 
 ---
 
-## 🌍 International Experience
+🤖 AI & Intelligent Automation
 
-### Oman
+My focus is on applying AI to real business workflows, rather than building AI demonstrations in isolation.
 
-Worked directly with organizations in Oman on ERP transformation, including on-site business discovery and requirements gathering across departments such as:
+AI-Powered Recruitment
 
-**HR → Operations → Drilling → Blasting → Mining → Logistics → Workshop → Inventory → Finance**
+Designing workflows that can analyze resumes against job descriptions and support candidate screening and evaluation.
 
-### USA
+Job Description → Resume Analysis → Candidate Evaluation → Ranking
 
-Worked on enterprise products across:
+Intelligent Document Processing
 
-**Healthcare → Insurance → FinTech → Telecommunications → Financial Services**
+Applying AI to business documents such as bills, invoices and other structured/unstructured documents.
 
----
+Document → AI Extraction → Validation → Business Workflow
 
-## 🛠️ Technology
+Financial Automation
 
-### Languages
+Applying intelligent matching and automation to financial workflows such as transaction reconciliation and accounting processes.
 
-`Python` `Node.js` `C#` `.NET` `JavaScript` `Java` `PHP`
+Transactions → Intelligent Matching → Reconciliation
 
-### Frontend & Mobile
+Insurance & Healthcare Automation
 
-`React` `React Native` `Angular` `HTML` `CSS` `iOS` `Android`
+Experience building AI-assisted workflows for extracting information from insurance documents and supporting claims processing.
 
-### ERP
-
-`Odoo` `HRMS` `Payroll` `Accounting` `Inventory` `Manufacturing`
-
-### AI
-
-`LLM Applications` `Document Intelligence` `Resume Analysis` `Intelligent Automation` `AI-assisted Workflows`
-
-### Cloud & DevOps
-
-`AWS` `Azure` `Docker` `Jenkins` `Azure DevOps` `GitLab` `NGINX`
-
-### Databases
-
-`PostgreSQL` `MongoDB` `SQL Server` `MySQL` `Oracle` `SQLite`
-
-### Architecture
-
-`Microservices` `REST APIs` `Enterprise Architecture` `MVC` `MVVM`
+Document/Image → AI Extraction → Structured Data → Business Process
 
 ---
 
-## ⭐ Selected Work
+🏢 ERP & Digital Transformation
 
-| Project                 | Area              | Highlights                                            |
-| ----------------------- | ----------------- | ----------------------------------------------------- |
-| **HAPPi**               | ERP + AI          | HRMS, Payroll, Accounting, AI, Mobile                 |
-| **Alfajar**             | ERP               | Drilling, Blasting & Mining — Oman                    |
-| **SMEF**                | ERP               | Accounting + Loan Management + 14-year data migration |
-| **Sharaka**             | ERP               | Accounting + 8+ years data migration                  |
-| **Global Gas Services** | ERP               | Gas manufacturing & distribution — Oman               |
-| **GoChkSneakers**       | ERP               | Manufacturing — India                                 |
-| **Reimbursify**         | AI + Healthcare   | Insurance card & claim automation                     |
-| **Vumber**              | FinTech / Telecom | Stripe migration & mobile payments                    |
+Experienced in designing and implementing ERP solutions across multiple business domains using Odoo and related enterprise technologies.
 
----
+Business Domains
 
-## 📌 Areas I'm Exploring
+- HR & Payroll
+- Accounting & Finance
+- Manufacturing
+- Construction
+- Mining
+- Drilling & Operations
+- Logistics & Inventory
+- Sales & Incentive Management
+- Financial Services
+- Healthcare & Insurance
 
-* On-device / private AI
-* AI-powered enterprise applications
-* Intelligent document processing
-* AI-assisted ERP workflows
-* Local LLMs and edge AI
-* AI agents for business processes
-* Enterprise automation
-* Digital transformation
+ERP Capabilities
 
----
+- Business process discovery
+- Requirements gathering
+- Solution architecture
+- ERP configuration and development
+- System integration
+- Data migration
+- Financial system migration
+- Workflow automation
+- User and role management
+- Deployment and support
 
-## 🤝 Let's Connect
-
-I'm interested in conversations around:
-
-**AI • ERP • Enterprise Software • Digital Transformation • Product Engineering • Technology Leadership**
-
-[LinkedIn](https://www.linkedin.com/in/jafar-khan-04a65224/) · [Portfolio](https://jafarkhan1989.github.io/Profile/)
+I have led 10+ ERP implementations, with implementations ranging from small teams to approximately 100 users.
 
 ---
 
-### Building technology that solves real business problems.
+🧩 Product Engineering
+
+I work across the complete product lifecycle:
+
+Business Problem
+      ↓
+Requirements Discovery
+      ↓
+Solution Design
+      ↓
+Architecture
+      ↓
+Development
+      ↓
+Integration
+      ↓
+Testing
+      ↓
+Deployment
+      ↓
+Continuous Improvement
+
+My experience includes building:
+
+- Enterprise web applications
+- Mobile applications
+- ERP systems
+- Financial systems
+- Healthcare applications
+- Insurance platforms
+- AI-enabled business applications
+- REST APIs and microservices
+- Cloud-native applications
+
+---
+
+👥 Technology Leadership
+
+As a technology leader, my responsibilities extend beyond software development.
+
+Engineering Leadership
+
+- Lead and coordinate 20–25 technology professionals
+- Technical direction and architecture
+- Engineering standards and practices
+- Project delivery
+- Technical decision-making
+
+People Development
+
+- Technical interviews and hiring drives
+- Candidate evaluation and selection
+- Employee performance appraisal
+- Technical mentoring
+- Intern and new-joiner training
+- Technology and ERP training
+
+Business & Client Engagement
+
+- Requirements discovery
+- Business process analysis
+- Solution consulting
+- Proposal development
+- Technical presentations
+- Project sign-off
+- Client relationship management
+- Long-term delivery and support
+
+---
+
+🌍 International Experience
+
+🇮🇳 India
+
+Enterprise applications, ERP, AI solutions, product engineering and technology leadership.
+
+🇴🇲 Oman
+
+ERP transformation, business process discovery, financial systems, operational systems and on-site client consulting.
+
+🇺🇸 USA
+
+Experience delivering technology solutions across healthcare, insurance, telecommunications, financial services and enterprise applications.
+
+---
+
+🛠️ Technology
+
+AI & Intelligent Systems
+
+"AI Applications" "LLM Applications" "Document Intelligence" "Intelligent Automation" "AI-assisted Workflows"
+
+ERP
+
+"Odoo" "ERP" "HRMS" "Payroll" "Accounting" "Finance" "Inventory" "Manufacturing"
+
+Backend
+
+"Python" "Node.js" "C#" ".NET" "REST APIs"
+
+Frontend & Mobile
+
+"React" "React Native" "Angular" "JavaScript" "iOS" "Android"
+
+Cloud & DevOps
+
+"AWS" "Azure" "Docker" "Jenkins" "CI/CD" "Azure DevOps" "GitLab" "NGINX"
+
+Databases
+
+"PostgreSQL" "MongoDB" "SQL Server" "MySQL" "Oracle" "SQLite"
+
+Architecture
+
+"Microservices" "Enterprise Architecture" "Distributed Systems" "MVC" "MVVM" "API Design"
+
+---
+
+🔬 Current Areas of Interest
+
+I'm particularly interested in:
+
+- On-device and private AI
+- Local LLMs
+- AI-powered enterprise applications
+- Intelligent document processing
+- AI agents for business workflows
+- AI-assisted ERP
+- Enterprise automation
+- Digital transformation
+- Scalable software architecture
+- Developer productivity with AI
+
+---
+
+
+🤝 Let's Connect
+
+I'm always interested in conversations around:
+
+AI • ERP • Digital Transformation • Enterprise Software • Product Engineering • Solution Architecture • Technology Leadership
+
+"LinkedIn" (https://www.linkedin.com/in/jafar-khan-04a65224/)
+"Portfolio" (https://jafarkhan1989.github.io/Profile/)
+
+---
+
+Building technology that solves real business problems. 🚀
