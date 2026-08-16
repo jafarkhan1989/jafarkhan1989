@@ -1,76 +1,85 @@
-Hi, I'm Jafar Khan 👋
+# Hi, I'm Jafar Khan 👋
 
-Director of Technology | AI & ERP | Solution Architecture | Product Engineering
+### Director of Technology | AI & Digital Transformation
 
-Technology leader with 15+ years of experience across software engineering, enterprise applications, ERP, AI-powered solutions, product engineering, cloud and digital transformation.
+Technology leader with **15+ years of experience** across software engineering, product engineering, solution architecture, AI, ERP transformation and cloud platforms.
 
-Currently serving as a Director of Technology, leading engineering teams, technology initiatives, enterprise solution delivery and client engagements across multiple geographies.
+Currently working as a **Director at Thapovan Info Systems**, leading technology initiatives across enterprise applications, AI-powered solutions, ERP, product engineering and cloud environments.
 
-I enjoy working at the intersection of business and technology — understanding complex business problems, designing practical solutions, leading teams and taking products from concept to production.
-
----
-
-🚀 What I Do
-
-- 🧠 AI & Intelligent Automation
-- 🏢 ERP & Digital Transformation
-- 🏗️ Solution & Software Architecture
-- 👨‍💻 Product & Enterprise Engineering
-- 👥 Engineering Leadership
-- ☁️ Cloud & DevOps
-- 🤝 Technical Consulting & Client Engagement
-- 📋 Requirements & Solution Design
-- 💼 Pre-sales & Proposal Development
+I enjoy working at the intersection of **business and technology** — understanding complex problems, designing practical solutions, building strong engineering teams and taking products from concept to production.
 
 ---
 
-📊 Experience at a Glance
+## 🚀 What I Do
 
-| 
-15+| Years in Technology
-20–25| Engineers & Technology Professionals Led
-20+| Clients Engaged
-20+| Projects / Proposals
-10+| ERP Implementations
-India • Oman • USA| International Experience
-
----
-
-🤖 AI & Intelligent Automation
-
-My focus is on applying AI to real business workflows, rather than building AI demonstrations in isolation.
-
-AI-Powered Recruitment
-
-Designing workflows that can analyze resumes against job descriptions and support candidate screening and evaluation.
-
-Job Description → Resume Analysis → Candidate Evaluation → Ranking
-
-Intelligent Document Processing
-
-Applying AI to business documents such as bills, invoices and other structured/unstructured documents.
-
-Document → AI Extraction → Validation → Business Workflow
-
-Financial Automation
-
-Applying intelligent matching and automation to financial workflows such as transaction reconciliation and accounting processes.
-
-Transactions → Intelligent Matching → Reconciliation
-
-Insurance & Healthcare Automation
-
-Experience building AI-assisted workflows for extracting information from insurance documents and supporting claims processing.
-
-Document/Image → AI Extraction → Structured Data → Business Process
+- 🧠 **AI & Intelligent Automation**
+- 🏢 **ERP & Digital Transformation**
+- 🏗️ **Solution & Software Architecture**
+- 👨‍💻 **Product & Enterprise Engineering**
+- 👥 **Engineering Leadership**
+- ☁️ **Cloud & DevOps**
+- 🤝 **Technology Consulting & Client Engagement**
+- 📋 **Business Analysis & Solution Design**
+- 💼 **Pre-sales & Technology Proposals**
 
 ---
 
-🏢 ERP & Digital Transformation
+## 📊 Experience at a Glance
 
-Experienced in designing and implementing ERP solutions across multiple business domains using Odoo and related enterprise technologies.
+| | |
+|---|---|
+| **15+ years** | Software Engineering & Technology |
+| **20+** | Technology Professionals Led |
+| **20+** | Clients & Business Engagements |
+| **20+** | Projects & Proposals |
+| **10+** | ERP Implementations |
+| **3** | International Markets — India, Oman & USA |
 
-Business Domains
+---
+
+## 🧠 AI & Intelligent Automation
+
+My focus is on applying AI to **real business workflows**, rather than building AI demonstrations in isolation.
+
+### Areas of Interest
+
+- AI-powered enterprise applications
+- Large Language Models (LLMs)
+- Local & private AI
+- Intelligent document processing
+- Resume analysis and candidate evaluation
+- Invoice and bill data extraction
+- Financial transaction processing
+- Automated bank reconciliation
+- Insurance document processing
+- AI-assisted claims processing
+- AI agents and business workflows
+
+### Typical AI Workflow
+
+```text
+Business Problem
+       ↓
+Data / Document
+       ↓
+AI / LLM Processing
+       ↓
+Validation & Business Rules
+       ↓
+Structured Data
+       ↓
+Business Workflow
+       ↓
+Human / System Action
+```
+
+---
+
+## 🏢 ERP & Digital Transformation
+
+Experienced in designing and implementing **Odoo-based ERP solutions** across multiple business domains.
+
+### Business Domains
 
 - HR & Payroll
 - Accounting & Finance
@@ -79,172 +88,194 @@ Business Domains
 - Mining
 - Drilling & Operations
 - Logistics & Inventory
-- Sales & Incentive Management
+- Sales & CRM
 - Financial Services
 - Healthcare & Insurance
 
-ERP Capabilities
+### ERP Capabilities
 
 - Business process discovery
-- Requirements gathering
+- Requirements analysis
 - Solution architecture
-- ERP configuration and development
+- ERP configuration & development
 - System integration
 - Data migration
-- Financial system migration
 - Workflow automation
-- User and role management
-- Deployment and support
+- Financial system migration
+- Deployment & production support
 
-I have led 10+ ERP implementations, with implementations ranging from small teams to approximately 100 users.
+**10+ ERP implementations** across India and Oman.
 
 ---
 
-🧩 Product Engineering
+## 🧩 Product Engineering
 
-I work across the complete product lifecycle:
+Experience across the complete product lifecycle:
 
+```text
 Business Problem
-      ↓
+       ↓
 Requirements Discovery
-      ↓
+       ↓
 Solution Design
-      ↓
+       ↓
 Architecture
-      ↓
+       ↓
 Development
-      ↓
+       ↓
 Integration
-      ↓
+       ↓
 Testing
-      ↓
+       ↓
 Deployment
-      ↓
+       ↓
 Continuous Improvement
+```
 
-My experience includes building:
+### Product & Platform Experience
 
 - Enterprise web applications
 - Mobile applications
+- SaaS platforms
 - ERP systems
-- Financial systems
+- Financial platforms
 - Healthcare applications
 - Insurance platforms
-- AI-enabled business applications
-- REST APIs and microservices
-- Cloud-native applications
+- Telecommunications platforms
+- AI-enabled applications
+- REST APIs & microservices
+- Cloud-based applications
 
 ---
 
-👥 Technology Leadership
+## 👥 Technology Leadership
 
-As a technology leader, my responsibilities extend beyond software development.
+My responsibilities extend beyond software development into **people, processes, architecture and business alignment**.
 
-Engineering Leadership
+### Engineering Leadership
 
-- Lead and coordinate 20–25 technology professionals
-- Technical direction and architecture
-- Engineering standards and practices
+- Technology strategy
+- Technical direction
+- Solution architecture
+- Engineering standards
 - Project delivery
 - Technical decision-making
+- Project staffing
+- Cross-functional coordination
 
-People Development
+### People Development
 
-- Technical interviews and hiring drives
-- Candidate evaluation and selection
-- Employee performance appraisal
+- Hiring & candidate evaluation
+- Technical interviews
+- Performance appraisal
 - Technical mentoring
-- Intern and new-joiner training
-- Technology and ERP training
+- Developer training
+- New-joiner onboarding
+- Technology capability development
 
-Business & Client Engagement
+### Business & Client Engagement
 
-- Requirements discovery
-- Business process analysis
+- Business discovery
+- Requirements gathering
+- Process analysis
 - Solution consulting
-- Proposal development
 - Technical presentations
+- Proposal development
+- Pre-sales support
 - Project sign-off
 - Client relationship management
-- Long-term delivery and support
 
 ---
 
-🌍 International Experience
+## 🌍 International Experience
 
-🇮🇳 India
+### 🇮🇳 India
 
 Enterprise applications, ERP, AI solutions, product engineering and technology leadership.
 
-🇴🇲 Oman
+### 🇴🇲 Oman
 
-ERP transformation, business process discovery, financial systems, operational systems and on-site client consulting.
+ERP transformation, financial systems, operational systems, business process discovery and client consulting.
 
-🇺🇸 USA
+### 🇺🇸 USA
 
-Experience delivering technology solutions across healthcare, insurance, telecommunications, financial services and enterprise applications.
-
----
-
-🛠️ Technology
-
-AI & Intelligent Systems
-
-"AI Applications" "LLM Applications" "Document Intelligence" "Intelligent Automation" "AI-assisted Workflows"
-
-ERP
-
-"Odoo" "ERP" "HRMS" "Payroll" "Accounting" "Finance" "Inventory" "Manufacturing"
-
-Backend
-
-"Python" "Node.js" "C#" ".NET" "REST APIs"
-
-Frontend & Mobile
-
-"React" "React Native" "Angular" "JavaScript" "iOS" "Android"
-
-Cloud & DevOps
-
-"AWS" "Azure" "Docker" "Jenkins" "CI/CD" "Azure DevOps" "GitLab" "NGINX"
-
-Databases
-
-"PostgreSQL" "MongoDB" "SQL Server" "MySQL" "Oracle" "SQLite"
-
-Architecture
-
-"Microservices" "Enterprise Architecture" "Distributed Systems" "MVC" "MVVM" "API Design"
+Healthcare, insurance, telecommunications, financial services and enterprise software platforms.
 
 ---
 
-🔬 Current Areas of Interest
+## 🛠️ Technology
 
-I'm particularly interested in:
+### AI
 
-- On-device and private AI
-- Local LLMs
-- AI-powered enterprise applications
-- Intelligent document processing
-- AI agents for business workflows
-- AI-assisted ERP
-- Enterprise automation
-- Digital transformation
-- Scalable software architecture
-- Developer productivity with AI
+AI Applications · LLM Applications · Document Intelligence · Intelligent Automation · AI Agents
+
+### ERP
+
+Odoo · ERP · HRMS · Payroll · Accounting · Finance · Inventory · Manufacturing
+
+### Backend
+
+Python · Node.js · C# · .NET · Java · Spring Boot · REST APIs
+
+### Frontend
+
+React · Angular · AngularJS · JavaScript
+
+### Mobile
+
+React Native · Swift · Kotlin · .NET MAUI
+
+### Cloud & DevOps
+
+AWS · Azure · Docker · Jenkins · CI/CD · Azure DevOps · GitLab · NGINX · Cloudflare
+
+### Databases
+
+PostgreSQL · MongoDB · SQL Server · MySQL · Oracle · SQLite
+
+### Architecture
+
+Microservices · Enterprise Architecture · Distributed Systems · API Design · MVC · MVVM
 
 ---
 
+## 🔬 Current Focus
 
-🤝 Let's Connect
+Currently exploring and building around:
 
-I'm always interested in conversations around:
-
-AI • ERP • Digital Transformation • Enterprise Software • Product Engineering • Solution Architecture • Technology Leadership
-
-"LinkedIn" (https://www.linkedin.com/in/jafar-khan-04a65224/)
-"Portfolio" (https://jafarkhan1989.github.io/Profile/)
+- 🔐 Private & on-device AI
+- 🧠 Local LLMs
+- 🤖 AI agents for business workflows
+- 🏢 AI-powered ERP
+- 📄 Intelligent document processing
+- ⚙️ Enterprise automation
+- ☁️ Scalable cloud architecture
+- 👨‍💻 AI-assisted developer productivity
 
 ---
 
-Building technology that solves real business problems. 🚀
+## 📌 Featured Work
+
+I'm building a collection of **independent, non-confidential projects** demonstrating practical applications of AI, ERP, cloud and enterprise architecture.
+
+> Client and company projects are intentionally not published here due to confidentiality.
+
+---
+
+## 🤝 Connect
+
+I'm interested in conversations around:
+
+**AI · ERP · Digital Transformation · Enterprise Software · Product Engineering · Solution Architecture · Technology Leadership**
+
+### LinkedIn
+
+[linkedin.com/in/jafar-khan-04a65224](https://www.linkedin.com/in/jafar-khan-04a65224/)
+
+### Portfolio
+
+[jafarkhan1989.github.io](https://jafarkhan1989.github.io/Profile/)
+
+---
+
+> **Building technology that solves real business problems.**
